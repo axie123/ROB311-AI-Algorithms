@@ -1,29 +1,24 @@
-# Foobar
+# ROB311: Artifical Intelligence
 
-Foobar is a Python library for dealing with word pluralization.
+This repository is for all the projects I did for an artifical intelligence course I did. In summary, the content of the projects involve algorithms that are used in agent decision making and optimization across varies environments and streams of AI research. There are 5 projects in total, each involving a different topic which more information can be found below. 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Each of the projects are already in their compartment folders. To test out a project: download the folders exactly as they are in the repository and keep the files the way they are. It is recommended that you use PyCharm or some other IDE for this. 
 
-```bash
-pip install foobar
-```
+### Prerequisites
 
-## Usage
+To run 
+
+## Usage/Running 
+
+It's simple. Just:
 
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+python program_name.py
 ```
+to run.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Projects 
 
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### 
