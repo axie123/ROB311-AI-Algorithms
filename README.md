@@ -28,7 +28,22 @@ on the PyCharm or OS terminal to run.
 ## Projects 
 
 ### 1. Graph Search Algorithms
-### 2. Inference Constraints and Rubins Vehicle Planning
+
+This assignment implements a breadth-first search on a network of facebook users to find a connection between any two users. An A* algorithms search is also implemented
+for the same purpose. 
+
+### 2. Inference Constraints and Dubins Vehicle Planning
+
+An inference deduction algorithm is developed. RRT Dubins planning was used to help a virtual agent find the shortest path to an objective around an obstacle. 
+
 ### 3. Markov Decision Process
-### 4. Decision Trees
+
+A Markov decision process algorithm was written to determine the probabilities of successive states and possible terminal states.
+
+### 4. Decision Trees (DTs)
+
+A DT was created and an adversial game agent is created as well.
+
 ### 5. RL Algorithms: Q-learning
+
+Q-learning was used to optimize the training time of an agent in OpenAI's Gym environment. The goal of the agent is to balance a pole for a certain amount of time.
