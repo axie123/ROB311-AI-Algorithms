@@ -8,17 +8,27 @@ Each of the projects are already in their compartment folders. To test out a pro
 
 ### Prerequisites
 
-To run 
+Here are the libraries that you need to run these projects:
+
+Numpy - A data science and scientific computing library. Source: https://numpy.org/install/
+
+Matplotlib - A graph visualization library. Source: https://matplotlib.org/users/installing.html
+
+OpenAI Gym - An RL environment designed by OpenAI. Source: https://gym.openai.com/envs/CartPole-v1/
 
 ## Usage/Running 
 
 It's simple. Just:
 
-```python
+```bash
 python program_name.py
 ```
-to run.
+on the PyCharm or OS terminal to run.
 
 ## Projects 
 
-### 
+### 1. Graph Search Algorithms
+### 2. Inference Constraints and Rubins Vehicle Planning
+### 3. Markov Decision Process
+### 4. Decision Trees
+### 5. RL Algorithms: Q-learning
